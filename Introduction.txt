@@ -1,0 +1,16 @@
+Introduction
+1Analytical. Overview of the problem of using chatbots in human-machine interaction 1.1 Chatbots. Basic concepts and definitions  
+1.2  Using chatbots in the context of human resource
+1.3  Overview of the process of ybman resource support requests set in natural language
+1.4  Overview of existing software for query analysis in natural language
+2 Practical. Selecting tools and creating a chatbot for human resource
+2.1  Overview of programs and platforms for creating chatbots  
+2.2 Example of creating a chatbot for human resource
+3 Design and Implementation of AI chatbot
+3.1 Design of AI chatbot
+3.2  Software implementation of AI chatbot
+4  Experimental 
+4.1 Analysis of changes in the work processes of the human resource service after the implementation of the chatbot
+4.2 Analyze the labor and time required to develop and implement a chatbot
+Summary
+References
